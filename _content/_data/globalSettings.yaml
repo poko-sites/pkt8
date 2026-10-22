@@ -1,1 +1,5 @@
-
+siteName: "pkt8"
+productionUrl: https://pkt8.pages.dev
+languages:
+  - code: en
+    status: published
